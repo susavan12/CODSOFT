@@ -21,7 +21,6 @@ Python Calculator Application
 A simple and interactive command-line calculator built in Python. This tool supports basic arithmetic operations including addition, subtraction, multiplication, and division. Designed for educational and beginner-friendly use, it lets users chain operations or restart calculations easily.
 
 Features
-
 Performs basic arithmetic: +, -, *, /
 Continuous calculations with intermediate results
 Option to reset or exit after each operation
